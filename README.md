@@ -44,10 +44,5 @@ This project analyzes **bike purchase trends** using **Excel**, uncovering insig
 - 🔢 Introduce **DAX calculations** in Power BI for deeper insights.  
 - 📊 Implement **trend forecasting** based on historical data.  
 
----
 
-### **Next Steps**  
-1. **Upload the Excel file and dashboard image (`image.png`) to GitHub.**  
-2. **Add this `README.md` file to your repository.**  
-3. **Let me know if you need help with GitHub steps!** 😊🚀  
 
