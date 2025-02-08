@@ -12,7 +12,7 @@ This project analyzes **bike purchase trends** using **Excel**, uncovering insig
 ---
 
 ## 🗄️ **Dashboard Preview**  
-![Bike Sales Dashboard](image.png)  
+![image](https://github.com/user-attachments/assets/5c42694f-c0e7-44c3-81a4-de2383eb8c6d)
 
 ---
 
